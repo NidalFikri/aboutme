@@ -2,7 +2,7 @@
 title: Nidal Fikri | Malware RE
 description: Hunting Malwares, Securing Cyber Space.
 baseurl: "/TEST" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://github.com/NidalFikri/aboutme" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Nidal Fikri
